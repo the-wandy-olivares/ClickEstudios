@@ -1,4 +1,4 @@
-# ClickEstudios.com
+# ClickEstudios
 
 ClickEstudios.com es una plataforma diseñada para simplificar la gestión y optimización de estudios, proporcionando una solución completa para la administración de proyectos de investigación y desarrollo.
 
